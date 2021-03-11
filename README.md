@@ -30,3 +30,6 @@ Extract the data before running the code.
       primaryClass={cs.CL}
 }
 ```
+
+
+[paper with code](https://paperswithcode.com/paper/an-amharic-news-text-classification-dataset)

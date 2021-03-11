@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/15804692/110856042-2f166900-82c8-11eb-920c-d02a8b6d9c14.png)
+
+
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-amharic-news-text-classification-dataset/text-classification-on-an-amharic-news-text)](https://paperswithcode.com/sota/text-classification-on-an-amharic-news-text?p=an-amharic-news-text-classification-dataset)
 
 # An-Amharic-News-Text-classification-Dataset

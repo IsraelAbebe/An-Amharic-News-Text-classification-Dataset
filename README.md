@@ -22,6 +22,10 @@ Extract the data before running the code.
 
 
 
+
+
+
+
 ## cite
 
 ```
@@ -37,3 +41,10 @@ Extract the data before running the code.
 
 
 [paper with code](https://paperswithcode.com/paper/an-amharic-news-text-classification-dataset)
+
+
+
+
+## Check out this repo that uses our data
+
+https://github.com/rasyosef/amharic-news-category-classification
